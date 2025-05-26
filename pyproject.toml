@@ -1,6 +1,6 @@
 # パッケージをビルドする上でのシステム情報
 [build-system]
-requires = ["hatchling"]
+requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 # パッケージのメタデータ
